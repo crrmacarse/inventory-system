@@ -2,7 +2,39 @@
 
 ## Overview
 
-based in https://www.djangoproject.com/
+### Project Staack
+
+* Djanggo
+* Sqlite
+
+## Development
+
+### Activate Virtual Environment
+
+Windows:
+
+```bash
+./scripts/activate.bat
+```
+
+On Unix or MacOS:
+
+```bash
+source ./scripts/activate
+```
+
+### Running the Application
+
+```bash
+python manage.py runserver
+```
+
+## Known Issues
+
+## Resources
+
+* https://www.djangoproject.com/
+* https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716
 
 ### Get in touch
 
