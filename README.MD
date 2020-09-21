@@ -23,6 +23,12 @@ On Unix or MacOS:
 source ./scripts/activate
 ```
 
+### Run Migration
+
+```bash
+python manage.py migrate
+```
+
 ### Running the Application
 
 ```bash
