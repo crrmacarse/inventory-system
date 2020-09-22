@@ -4,6 +4,7 @@
 
 ### Project Staack
 
+* Python 3
 * Djanggo
 * Sqlite
 
@@ -39,6 +40,7 @@ python manage.py runserver
 
 ## Resources
 
+* https://docs.python.org/
 * https://www.djangoproject.com/
 * https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716
 
